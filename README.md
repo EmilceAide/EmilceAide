@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	 
+
 
 	
 # ¡Hola!👋 Soy Emilce :sunny:
@@ -8,7 +7,7 @@
 
 ## 	:briefcase: ¿A qué me dedico? 	
 
-Soy :computer: <b>Full Stack Developer</b> y he desarrollado proyectos tanto del backend como de frontend.
+Soy :computer: <b>Full Stack Developer</b> y he desarrollado proyectos tanto del <b>backend</b> como de <b>frontend</b>.
 	
 </br>
 
@@ -64,3 +63,6 @@ Soy :computer: <b>Full Stack Developer</b> y he desarrollado proyectos tanto del
 
 ## Contacto 
 :mailbox_with_mail: emilceseguro@gmail.com
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	 
