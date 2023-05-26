@@ -2,7 +2,7 @@
 
 	
 # ¡Hola!👋 Soy Emilce :sunny:
- Una capricorniana a quien le encanta beber un buen café :coffee: en días soleados o lluviosos, la naturaleza :seedling:, la música instrumental y codear👩🏻‍💻 .
+ Una capricorniana a quien le encanta beber un buen café :coffee: en días soleados o lluviosos, la naturaleza :seedling:, la música instrumental y <b>codear</b>👩🏻‍💻 .
 </br>
 
 ## 	:briefcase: ¿A qué me dedico? 	
