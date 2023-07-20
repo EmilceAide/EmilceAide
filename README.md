@@ -22,7 +22,13 @@ Soy :computer: <b>Full Stack Developer</b> y he desarrollado proyectos tanto del
 </br>
 </br>
 	
-	
+## 🎯 ¿Cuál es mi objetivo?
+:chart: Me gustaría formar parte de una empresa y contribuir de manera efectiva a su éxito, aportando mi experiencia y habilidades.
+
+:rocket: ¡Espero poder seguir aprendiendo y colaborando en diferentes proyectos! :muscle: 
+
+:bulb:Me gusta estar en constante aprendizaje porque creo que es fundamental para nuestro crecimiento como programadores :seedling:.
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> ¿Cuales son mis habilidades técnicas?
 
 :white_check_mark: JavaScript
@@ -50,16 +56,6 @@ Soy :computer: <b>Full Stack Developer</b> y he desarrollado proyectos tanto del
 :white_check_mark: MongoDB
 
 :white_check_mark: Jest
-
-
-
-
-## 🎯 ¿Cuál es mi objetivo?
-:chart: Me gustaría formar parte de una empresa y contribuir de manera efectiva a su éxito, aportando mi experiencia y habilidades.
-
-:rocket: ¡Espero poder seguir aprendiendo y colaborando en diferentes proyectos! :muscle: 
-
-:bulb:Me gusta estar en constante aprendizaje porque creo que es fundamental para nuestro crecimiento como programadores :seedling:.
 
 ## Contacto 
 :mailbox_with_mail: emilceseguro@gmail.com
